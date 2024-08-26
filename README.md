@@ -23,6 +23,7 @@ Log in to phpMyAdmin.
 Select the database where you want to import the data.
 Click on the "Import" tab.
 ## Choose the login.sql , already in our project
+https://github.com/Ayushijain12/Project-managemnt-backend/blob/main/login.sql
 Click "Go" to import the file.
 
 Running the Application
