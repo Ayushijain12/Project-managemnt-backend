@@ -1,6 +1,6 @@
 ﻿# Project-managemnt-backend
 
-Node.js Project
+## Node.js Project
 Description
 This project is a Node.js application designed to [brief description of the project functionality or purpose].
 
@@ -11,11 +11,13 @@ Ensure you have the following software installed:
 Node.js (>= 14.x)
 npm
 Installation
-Clone the repository:
+# Clone the repository:
+
 git clone [your-repository-link]
 cd [your-project-directory]
 npm install
-Import the SQL file into phpMyAdmin:
+
+## Import the SQL file into phpMyAdmin:
 
 Log in to phpMyAdmin.
 Select the database where you want to import the data.
@@ -24,7 +26,8 @@ Choose the singup.sql , already in our project
 Click "Go" to import the file.
 
 Running the Application
-To start the application, use the following command:
+
+## To start the application, use the following command:
 
 bash
 Copy code
