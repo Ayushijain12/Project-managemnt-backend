@@ -22,7 +22,7 @@ npm install
 Log in to phpMyAdmin.
 Select the database where you want to import the data.
 Click on the "Import" tab.
-Choose the singup.sql , already in our project
+## Choose the login.sql , already in our project
 Click "Go" to import the file.
 
 Running the Application
